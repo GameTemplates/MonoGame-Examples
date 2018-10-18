@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/home/szoszo/Projects/NET/asteroids/asteroids/Content/asteroids/debrish.png</File>
+    <File>/home/szoszo/Projects/NET/asteroids/asteroids/Content/asteroids/larg_asteroid_1.png</File>
+    <File>/home/szoszo/Projects/NET/asteroids/asteroids/Content/asteroids/larg_asteroid_2.png</File>
+    <File>/home/szoszo/Projects/NET/asteroids/asteroids/Content/asteroids/larg_asteroid_3.png</File>
+    <File>/home/szoszo/Projects/NET/asteroids/asteroids/Content/asteroids/medium_asteroid_1.png</File>
+    <File>/home/szoszo/Projects/NET/asteroids/asteroids/Content/asteroids/medium_asteroid_2.png</File>
+    <File>/home/szoszo/Projects/NET/asteroids/asteroids/Content/asteroids/medium_asteroid_3.png</File>
+    <File>/home/szoszo/Projects/NET/asteroids/asteroids/Content/asteroids/small_asteroid_1.png</File>
+    <File>/home/szoszo/Projects/NET/asteroids/asteroids/Content/asteroids/small_asteroid_2.png</File>
+    <File>/home/szoszo/Projects/NET/asteroids/asteroids/Content/asteroids/small_asteroid_3.png</File>
+    <File>/home/szoszo/Projects/NET/asteroids/asteroids/Content/audio/Explosion.ogg</File>
+    <File>/home/szoszo/Projects/NET/asteroids/asteroids/Content/audio/Laser_Shoot.ogg</File>
+    <File>/home/szoszo/Projects/NET/asteroids/asteroids/Content/audio/thruster.ogg</File>
+    <File>/home/szoszo/Projects/NET/asteroids/asteroids/Content/audio/thruster_down.ogg</File>
+    <File>/home/szoszo/Projects/NET/asteroids/asteroids/Content/Font.spritefont</File>
+    <File>/home/szoszo/Projects/NET/asteroids/asteroids/Content/ship/ship_1.png</File>
+    <File>/home/szoszo/Projects/NET/asteroids/asteroids/Content/ship/ship_bullet.png</File>
+    <File>/home/szoszo/Projects/NET/asteroids/asteroids/Content/ship/ship_part_1.png</File>
+    <File>/home/szoszo/Projects/NET/asteroids/asteroids/Content/ship/ship_part_2.png</File>
+    <File>/home/szoszo/Projects/NET/asteroids/asteroids/Content/ship/ship_part_3.png</File>
+  </SourceFiles>
+</SourceFileCollection>

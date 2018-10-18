@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>/home/szoszo/Projects/NET/asteroids/asteroids/Content/audio/Laser_Shoot.ogg</SourceFile>
+  <SourceTime>2018-06-11T22:36:44+01:00</SourceTime>
+  <DestFile>/home/szoszo/Projects/NET/asteroids/asteroids/Content/bin/DesktopGL/Content/audio/Laser_Shoot.xnb</DestFile>
+  <DestTime>2018-06-30T23:00:57+01:00</DestTime>
+  <Importer>OggImporter</Importer>
+  <ImporterTime>2018-06-24T13:32:38+01:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-06-24T13:32:38+01:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

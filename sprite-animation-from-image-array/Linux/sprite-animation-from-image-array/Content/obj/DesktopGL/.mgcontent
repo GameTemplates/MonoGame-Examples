@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/home/szoszo/Projects/gametemplates/monogame/play-animation-from-image-array/play-animation-from-image-array/Content/Font.spritefont</File>
+    <File>/home/szoszo/Projects/gametemplates/monogame/play-animation-from-image-array/play-animation-from-image-array/Content/Player/p1_walk1.png</File>
+    <File>/home/szoszo/Projects/gametemplates/monogame/play-animation-from-image-array/play-animation-from-image-array/Content/Player/p1_walk2.png</File>
+    <File>/home/szoszo/Projects/gametemplates/monogame/play-animation-from-image-array/play-animation-from-image-array/Content/Player/p1_walk3.png</File>
+    <File>/home/szoszo/Projects/gametemplates/monogame/play-animation-from-image-array/play-animation-from-image-array/Content/Player/p1_walk4.png</File>
+    <File>/home/szoszo/Projects/gametemplates/monogame/play-animation-from-image-array/play-animation-from-image-array/Content/Player/p1_walk5.png</File>
+    <File>/home/szoszo/Projects/gametemplates/monogame/play-animation-from-image-array/play-animation-from-image-array/Content/Player/p1_walk6.png</File>
+    <File>/home/szoszo/Projects/gametemplates/monogame/play-animation-from-image-array/play-animation-from-image-array/Content/Player/p1_walk7.png</File>
+    <File>/home/szoszo/Projects/gametemplates/monogame/play-animation-from-image-array/play-animation-from-image-array/Content/Player/p1_walk8.png</File>
+    <File>/home/szoszo/Projects/gametemplates/monogame/play-animation-from-image-array/play-animation-from-image-array/Content/Player/p1_walk9.png</File>
+  </SourceFiles>
+</SourceFileCollection>

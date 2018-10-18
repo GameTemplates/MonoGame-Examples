@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/szoszo/Desktop/Projects/monogame/asteroids-windows/asteroids-windows/Content/asteroids/debrish.png</File>
+    <File>C:/Users/szoszo/Desktop/Projects/monogame/asteroids-windows/asteroids-windows/Content/asteroids/larg_asteroid_1.png</File>
+    <File>C:/Users/szoszo/Desktop/Projects/monogame/asteroids-windows/asteroids-windows/Content/asteroids/larg_asteroid_2.png</File>
+    <File>C:/Users/szoszo/Desktop/Projects/monogame/asteroids-windows/asteroids-windows/Content/asteroids/larg_asteroid_3.png</File>
+    <File>C:/Users/szoszo/Desktop/Projects/monogame/asteroids-windows/asteroids-windows/Content/asteroids/medium_asteroid_1.png</File>
+    <File>C:/Users/szoszo/Desktop/Projects/monogame/asteroids-windows/asteroids-windows/Content/asteroids/medium_asteroid_2.png</File>
+    <File>C:/Users/szoszo/Desktop/Projects/monogame/asteroids-windows/asteroids-windows/Content/asteroids/medium_asteroid_3.png</File>
+    <File>C:/Users/szoszo/Desktop/Projects/monogame/asteroids-windows/asteroids-windows/Content/asteroids/small_asteroid_1.png</File>
+    <File>C:/Users/szoszo/Desktop/Projects/monogame/asteroids-windows/asteroids-windows/Content/asteroids/small_asteroid_2.png</File>
+    <File>C:/Users/szoszo/Desktop/Projects/monogame/asteroids-windows/asteroids-windows/Content/asteroids/small_asteroid_3.png</File>
+    <File>C:/Users/szoszo/Desktop/Projects/monogame/asteroids-windows/asteroids-windows/Content/audio/Explosion.ogg</File>
+    <File>C:/Users/szoszo/Desktop/Projects/monogame/asteroids-windows/asteroids-windows/Content/audio/Laser_Shoot.ogg</File>
+    <File>C:/Users/szoszo/Desktop/Projects/monogame/asteroids-windows/asteroids-windows/Content/audio/thruster.ogg</File>
+    <File>C:/Users/szoszo/Desktop/Projects/monogame/asteroids-windows/asteroids-windows/Content/audio/thruster_down.ogg</File>
+    <File>C:/Users/szoszo/Desktop/Projects/monogame/asteroids-windows/asteroids-windows/Content/Font.spritefont</File>
+    <File>C:/Users/szoszo/Desktop/Projects/monogame/asteroids-windows/asteroids-windows/Content/ship/ship_1.png</File>
+    <File>C:/Users/szoszo/Desktop/Projects/monogame/asteroids-windows/asteroids-windows/Content/ship/ship_bullet.png</File>
+    <File>C:/Users/szoszo/Desktop/Projects/monogame/asteroids-windows/asteroids-windows/Content/ship/ship_part_1.png</File>
+    <File>C:/Users/szoszo/Desktop/Projects/monogame/asteroids-windows/asteroids-windows/Content/ship/ship_part_2.png</File>
+    <File>C:/Users/szoszo/Desktop/Projects/monogame/asteroids-windows/asteroids-windows/Content/ship/ship_part_3.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

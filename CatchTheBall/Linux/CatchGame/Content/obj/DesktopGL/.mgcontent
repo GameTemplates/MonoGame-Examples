@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/home/szoszo/Projects/NET/CatchGame/CatchGame/Content/basketball.png</File>
+    <File>/home/szoszo/Projects/NET/CatchGame/CatchGame/Content/crash.wav</File>
+    <File>/home/szoszo/Projects/NET/CatchGame/CatchGame/Content/font.spritefont</File>
+    <File>/home/szoszo/Projects/NET/CatchGame/CatchGame/Content/hand.png</File>
+    <File>/home/szoszo/Projects/NET/CatchGame/CatchGame/Content/swish.wav</File>
+  </SourceFiles>
+</SourceFileCollection>

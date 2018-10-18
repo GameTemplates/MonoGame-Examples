@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{905B6B3B-33B1-49FB-B691-AE30F88CB4F5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="asteroids/Game1.cs">
+    <Files>
+      <File FileName="asteroids/Game1.cs" Line="9" Column="28" />
+      <File FileName="asteroids/Player.cs" Line="143" Column="29" />
+      <File FileName="asteroids/Bullet.cs" Line="11" Column="3" />
+      <File FileName="asteroids/Asteroid.cs" Line="98" Column="1" />
+      <File FileName="asteroids/Particle.cs" Line="10" Column="79" />
+      <File FileName="asteroids/PlayerDebris.cs" Line="80" Column="59" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
